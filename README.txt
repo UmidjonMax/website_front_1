@@ -1,1 +1,1 @@
-This is my first front project on html and css
+in this project I will write my first codes in html and css
